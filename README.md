@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Dreyah-7/Dreyah-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Carmen.
+I am a 2nd year student and my major is computer science.
+- I am currently using Java and JavaFX to build an application that calculates the cumulative and semester GPA.
+- I am working on becoming proficient in Java, Python, Javascript, and C++.
+- I will be posting my journey to creating interactive/useful applications.
+
+Fun Facts:
+-I like to watch anime and listen to Kpop
+-My favorite show is Stranger Things
+Hobbies: crocheting, dancing, playing the ukulele 
